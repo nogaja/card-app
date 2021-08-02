@@ -1,0 +1,12 @@
+.app-header{
+    background-color: #4e4558;
+    padding: 20px;
+    margin-bottom: 15px;
+    .logo::after{
+        content: '\f6e8';
+        padding-right: 20px;
+    }
+    a{
+        color: whitesmoke;
+    }
+}
